@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- seekbar_thumb.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF362E" /> <!-- Màu sắc của cửa sổ trượt -->
+    <size android:width="5dp" android:height="5dp" /> <!-- Kích thước của cửa sổ trượt -->
+    <corners android:radius="100dp"/>
+</shape>

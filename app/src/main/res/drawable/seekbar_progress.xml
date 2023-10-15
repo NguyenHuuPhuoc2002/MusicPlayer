@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- seekbar_progress_custom.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background track -->
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#C0C0C0" /> <!-- Màu sắc nền cho thanh tiến trình -->
+        </shape>
+    </item>
+
+    <!-- Custom Progress track -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="#FF0000" /> <!-- Màu sắc tiến trình cho thanh tiến trình -->
+            </shape>
+        </clip>
+    </item>
+</layer-list>
+
+
+
+
